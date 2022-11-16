@@ -1,0 +1,9 @@
+200 : OK
+301 : Trasladado permanentemente
+304 : No modificado
+401 : No autorizado
+403 : Prohibido
+404 : No encontrado
+500: Error interno del servidor
+503 : Servicio no disponible
+418 : Soy una tetera
