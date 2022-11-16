@@ -1,0 +1,9 @@
+INDEXADO
+
+$assignatures = array('Programació', 'Llatí', 'Matemàtiques', 'Física');
+
+ASOCIATIVO
+
+    $lang['es'] = 'Español';
+    $lang['ca'] = 'Català';
+    $lang['en'] = 'English';
