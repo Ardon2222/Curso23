@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Semana>
+    <Lunes>  
+        <Mallorca>
+            Soleado
+        </Mallorca>
+        <Murcia>
+            Nublado
+        </Murcia>
+        <Madrid>
+            Soleado
+        </Madrid>
+    </Lunes>
+    <Martes>  
+        <Mallorca>
+            Nublado
+        </Mallorca>
+        <Murcia>
+            Nublado
+        </Murcia>
+        <Madrid>
+            Lubioso
+        </Madrid>
+    </Martes>
+</Semana>
+
+
